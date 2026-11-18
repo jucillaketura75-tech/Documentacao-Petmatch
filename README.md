@@ -105,8 +105,9 @@ As regras são identificadas pelo prefixo RN, conforme descrito a seguir:
 
 ### 3.1. Diagramas de Casos de Uso
 
-conteudo
+**Figura 1 – Diagrama de Casos de Uso do PetMatch.**
 
+![Diagrama de Casos de Uso do PetMatch](diagrama-casos-de-uso-petmatch-completo.png)
 
 ### 3.2. Diagramas de Sequência
 
