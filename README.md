@@ -111,7 +111,7 @@ As regras são identificadas pelo prefixo RN, conforme descrito a seguir:
 
 ### 3.2. Diagramas de Sequência
 
-*Inserir diagramas e descrições.*
+
 
 ### 3.3. Diagramas de Atividades
 
