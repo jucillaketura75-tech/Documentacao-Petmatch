@@ -118,7 +118,7 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 
 **Figuras 4 e 5 – Consulta de animais e gerenciamento de animais.**
 
-![Figuras 4 e 5](diagramas-sequencia-pagina-34.png)
+![Figuras 4 e 5](./diagramas-sequencia-pagina-34.png)
 
 **Figuras 6 e 7 – Consulta e seleção de animal, validação e registro de solicitação.**
 
@@ -126,7 +126,7 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 
 **Figuras 8 e 9 – Análise e aprovação ou recusa de adoção.**
 
-![Figuras 8 e 9](diagramas-sequencia-pagina-37.png)
+![Figuras 8 e 9](./diagramas-sequencia-pagina-37.png)
 
 **Figura 10 – Conclusão da adoção e consulta do histórico.**
 
