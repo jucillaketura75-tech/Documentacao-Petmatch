@@ -1,40 +1,39 @@
-# Documentação_Requisitos
-# Documentação Informal do Software
+# PetMatch – Sistema de Adoção e Gerenciamento de Animais
 
 ## 1. Introdução
 
 ### 1.4. Descrição Geral do Software
 
-*Conteúdo a ser desenvolvido.*
+*Conteúdo a ser inserido.*
 
 ### 1.5. Descrição dos Usuários
 
-*Conteúdo a ser desenvolvido.*
+*Conteúdo a ser inserido.*
 
 ## 2. Requisitos Gerais do Software
 
 ### 2.1. Requisitos Funcionais
 
-*Conteúdo a ser desenvolvido.*
+*Conteúdo a ser inserido.*
 
 ### 2.2. Requisitos Não Funcionais
 
-*Conteúdo a ser desenvolvido.*
+*Conteúdo a ser inserido.*
 
 ### 2.3. Regras de Negócio
 
-*Conteúdo a ser desenvolvido.*
+*Conteúdo a ser inserido.*
 
 ## 3. Diagramas UML
 
 ### 3.1. Diagramas de Casos de Uso
 
-*Inserir os diagramas e suas descrições.*
+*Inserir diagrama e descrição.*
 
 ### 3.2. Diagramas de Sequência
 
-*Inserir os diagramas e suas descrições.*
+*Inserir diagramas e descrições.*
 
 ### 3.3. Diagramas de Atividades
 
-*Inserir os diagramas e suas descrições.*
+*Inserir diagrama e descrição.*
