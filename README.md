@@ -138,5 +138,8 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 
 
 ### 3.3. Diagramas de Atividades
+O diagrama de atividades apresenta o fluxo de funcionamento do sistema PetMatch, desde a consulta e seleção de animais pelo adotante até a análise da solicitação, aprovação ou recusa da adoção e atualização dos registros pelo usuário autorizado.
 
-*Inserir diagrama e descrição.*
+**Figura 13 – Diagrama de Atividades do PetMatch.**
+
+![Diagrama de Atividades do PetMatch](diagramas-atividades/diagrama-atividades-petmatch.png)
