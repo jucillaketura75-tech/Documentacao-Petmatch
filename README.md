@@ -110,7 +110,31 @@ As regras são identificadas pelo prefixo RN, conforme descrito a seguir:
 ![Diagrama de Casos de Uso do PetMatch](diagrama-casos-de-uso-petmatch-completo.png)
 
 ### 3.2. Diagramas de Sequência
+Os diagramas de sequência representam as interações entre os atores e os componentes do sistema PetMatch durante a execução de suas funcionalidades. Ao todo, são apresentados 11 diagramas, organizados conforme os casos de uso do sistema.
 
+**Figuras 2 e 3 – Cadastro, login, alteração de dados e encerramento de sessão.**
+
+![Figuras 2 e 3](diagramas-sequencia-pagina-33.png)
+
+**Figuras 4 e 5 – Consulta de animais e gerenciamento de animais.**
+
+![Figuras 4 e 5](diagramas-sequencia-pagina-34.png)
+
+**Figuras 6 e 7 – Consulta e seleção de animal, validação e registro de solicitação.**
+
+![Figuras 6 e 7](diagramas-sequencia-pagina-35.png)
+
+**Figuras 8 e 9 – Análise e aprovação ou recusa de adoção.**
+
+![Figuras 8 e 9](diagramas-sequencia-pagina-37.png)
+
+**Figura 10 – Conclusão da adoção e consulta do histórico.**
+
+![Figura 10](diagramas-sequencia-pagina-38.png)
+
+**Figuras 11 e 12 – Gerenciamento de usuários e solicitações.**
+
+![Figuras 11 e 12](diagramas-sequencia-pagina-39.png)
 
 
 ### 3.3. Diagramas de Atividades
