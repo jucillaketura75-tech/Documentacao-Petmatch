@@ -107,7 +107,7 @@ As regras são identificadas pelo prefixo RN, conforme descrito a seguir:
 
 **Figura 1 – Diagrama de Casos de Uso do PetMatch.**
 
-![Diagrama de Casos de Uso do PetMatch](diagrama-casos-de-uso-petmatch-completo.png)
+![Diagrama de Casos de Uso do PetMatch](diagramas-casos-de-uso/diagrama-casos-de-uso-petmatch-completo.png)
 
 ### 3.2. Diagramas de Sequência
 Os diagramas de sequência representam as interações entre os atores e os componentes do sistema PetMatch durante a execução de suas funcionalidades. Ao todo, são apresentados 11 diagramas, organizados conforme os casos de uso do sistema.
