@@ -24,7 +24,7 @@ O PetMatch possui diferentes tipos de usuários, cada um com responsabilidades e
 
 Os requisitos funcionais descrevem as funcionalidades que o sistema PetMatch deverá oferecer aos seus usuários, estabelecendo as operações que poderão ser realizadas durante o gerenciamento de animais e o processo de adoção.
 
-Os requisitos estão organizados em cinco grupos funcionais:
+Os requisitos estão organizados em quatro grupos funcionais:
 
 **Gerenciamento de Usuários**
 
