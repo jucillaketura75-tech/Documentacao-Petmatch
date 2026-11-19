@@ -147,6 +147,6 @@ O diagrama de atividades apresenta o fluxo de funcionamento do sistema PetMatch,
 
 ## Integrantes da Equipe
 
-Ana Vitória Farias
-Jucilla Kétura
-Paolla Gabriele
+-Ana Vitória Farias
+-Jucilla Kétura
+-Paolla Gabriele
