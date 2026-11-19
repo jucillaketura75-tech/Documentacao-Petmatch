@@ -143,3 +143,10 @@ O diagrama de atividades apresenta o fluxo de funcionamento do sistema PetMatch,
 **Figura 13 – Diagrama de Atividades do PetMatch.**
 
 ![Diagrama de Atividades do PetMatch](diagramas-atividades/diagrama-atividades-petmatch.png)
+
+
+## Integrantes da Equipe
+
+Ana Vitória Farias
+Jucilla Kétura
+Paolla Gabriele
