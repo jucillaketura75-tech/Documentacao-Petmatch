@@ -149,7 +149,7 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 **Figuras 2 e 3 – Cadastro, login, alteração de dados e encerramento de sessão.**
 
 <details>
-  <summary><strong>📄 Figuras 2 e 3 – Diagramas de Sequência</strong></summary>
+  <summary><strong> Figuras 2 e 3 – Diagramas de Sequência</strong></summary>
 
   <br>
 
@@ -165,7 +165,7 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 **Figuras 4 e 5 – Consulta de animais e gerenciamento de animais.**
 
 <details>
-  <summary><strong>📄 Figuras 4 e 5 – Diagramas de Sequência</strong></summary>
+  <summary><strong> Figuras 4 e 5 – Diagramas de Sequência</strong></summary>
 
   <br>
 
@@ -180,7 +180,7 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 **Figuras 6 e 7 – Consulta e seleção de animal, validação e registro de solicitação.**
 
 <details>
-  <summary><strong>📄 Figuras 6 e 7 – Diagramas de Sequência</strong></summary>
+  <summary><strong> Figuras 6 e 7 – Diagramas de Sequência</strong></summary>
 
   <br>
 
@@ -195,7 +195,7 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 **Figuras 8 e 9 – Análise e aprovação ou recusa de adoção.**
 
 <details>
-  <summary><strong>📄 Figuras 8 e 9 – Diagramas de Sequência</strong></summary>
+  <summary><strong> Figuras 8 e 9 – Diagramas de Sequência</strong></summary>
 
   <br>
 
@@ -210,7 +210,7 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 **Figura 10 – Conclusão da adoção e consulta do histórico.**
 
 <details>
-  <summary><strong>📄 Figura 10 – Diagrama de Sequência</strong></summary>
+  <summary><strong> Figura 10 – Diagrama de Sequência</strong></summary>
 
   <br>
 
@@ -226,7 +226,7 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 **Figuras 11 e 12 – Gerenciamento de usuários e solicitações.**
 
 <details>
-  <summary><strong>📄 Figuras 11 e 12 – Diagramas de Sequência</strong></summary>
+  <summary><strong> Figuras 11 e 12 – Diagramas de Sequência</strong></summary>
 
   <br>
 
@@ -244,7 +244,18 @@ O diagrama de atividades apresenta o fluxo de funcionamento do sistema PetMatch,
 
 **Figura 13 – Diagrama de Atividades do PetMatch.**
 
-![Diagrama de Atividades do PetMatch](diagramas-atividades/diagrama-atividades-petmatch.png)
+<details>
+  <summary><strong> Figura 13 – Diagrama de Atividades</strong></summary>
+
+  <br>
+
+  <div align="center">
+    <img src="diagramas-atividades/diagrama-atividades-petmatch.png"
+         width="100%"
+         alt="Figura 13 - Diagrama de Atividades do PetMatch">
+  </div>
+
+</details>
 
 ## Integrantes da Equipe
 
