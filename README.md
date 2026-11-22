@@ -133,7 +133,7 @@ As regras são identificadas pelo prefixo RN, conforme descrito a seguir:
 **Figura 1 – Diagrama de Casos de Uso do PetMatch.**
 
 <details>
-  <summary><strong>🐾 Visualizar Diagrama de Casos de Uso</strong></summary>
+  <summary><strong> Visualizar Diagrama de Casos de Uso</strong></summary>
 
   <br>
 
@@ -148,27 +148,95 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 
 **Figuras 2 e 3 – Cadastro, login, alteração de dados e encerramento de sessão.**
 
-![Figuras 2 e 3](diagramas-sequencia/diagramas-sequencia-pagina-33.png)
+<details>
+  <summary><strong>📄 Figuras 2 e 3 – Diagramas de Sequência</strong></summary>
+
+  <br>
+
+  <div align="center">
+    <img src="diagramas-sequencia/diagramas-sequencia-pagina-33.png"
+         width="100%"
+         alt="Figuras 2 e 3 - Diagramas de Sequência">
+  </div>
+
+</details>
+
 
 **Figuras 4 e 5 – Consulta de animais e gerenciamento de animais.**
 
-![Figuras 4 e 5](diagramas-sequencia/diagramas-sequencia-pagina-34.png)
+<details>
+  <summary><strong>📄 Figuras 4 e 5 – Diagramas de Sequência</strong></summary>
+
+  <br>
+
+  <div align="center">
+    <img src="diagramas-sequencia/diagramas-sequencia-pagina-34.png"
+         width="100%"
+         alt="Figuras 4 e 5 - Diagramas de Sequência">
+  </div>
+
+</details>
 
 **Figuras 6 e 7 – Consulta e seleção de animal, validação e registro de solicitação.**
 
-![Figuras 6 e 7](diagramas-sequencia/diagramas-sequencia-pagina-35.png)
+<details>
+  <summary><strong>📄 Figuras 6 e 7 – Diagramas de Sequência</strong></summary>
+
+  <br>
+
+  <div align="center">
+    <img src="diagramas-sequencia/diagramas-sequencia-pagina-35.png"
+         width="100%"
+         alt="Figuras 6 e 7 - Diagramas de Sequência">
+  </div>
+
+</details>
 
 **Figuras 8 e 9 – Análise e aprovação ou recusa de adoção.**
 
-![Figuras 8 e 9](diagramas-sequencia/diagramas-sequencia-pagina-37.png)
+<details>
+  <summary><strong>📄 Figuras 8 e 9 – Diagramas de Sequência</strong></summary>
+
+  <br>
+
+  <div align="center">
+    <img src="diagramas-sequencia/diagramas-sequencia-pagina-37.png"
+         width="100%"
+         alt="Figuras 8 e 9 - Diagramas de Sequência">
+  </div>
+
+</details>
 
 **Figura 10 – Conclusão da adoção e consulta do histórico.**
 
-![Figura 10](diagramas-sequencia/diagramas-sequencia-pagina-38.png)
+<details>
+  <summary><strong>📄 Figura 10 – Diagrama de Sequência</strong></summary>
+
+  <br>
+
+  <div align="center">
+    <img src="diagramas-sequencia/diagramas-sequencia-pagina-38.png"
+         width="100%"
+         alt="Figura 10 - Diagrama de Sequência">
+  </div>
+
+</details>
+
 
 **Figuras 11 e 12 – Gerenciamento de usuários e solicitações.**
 
-![Figuras 11 e 12](diagramas-sequencia/diagramas-sequencia-pagina-39.png)
+<details>
+  <summary><strong>📄 Figuras 11 e 12 – Diagramas de Sequência</strong></summary>
+
+  <br>
+
+  <div align="center">
+    <img src="diagramas-sequencia/diagramas-sequencia-pagina-39.png"
+         width="100%"
+         alt="Figuras 11 e 12 - Diagramas de Sequência">
+  </div>
+
+</details>
 
 
 ### 3.3. Diagramas de Atividades
