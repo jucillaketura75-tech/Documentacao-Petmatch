@@ -9,6 +9,22 @@
 
 # PetMatch – Sistema de Adoção e Gerenciamento de Animais
 
+## Guia do Documento
+
+- [1. Introdução](#1-introdução)
+  - [Descrição Geral do Software](#14-descrição-geral-do-software)
+  - [Descrição dos Usuários](#15-descrição-dos-usuários)
+- [2. Requisitos Gerais do Software](#2-requisitos-gerais-do-software)
+  - [Requisitos Funcionais](#21-requisitos-funcionais)
+  - [Requisitos Não Funcionais](#22-requisitos-não-funcionais)
+  - [Regras de Negócio](#23-regras-de-negócio)
+- [3. Diagramas UML](#3-diagramas-uml)
+  - [Diagramas de Casos de Uso](#31-diagramas-de-casos-de-uso)
+  - [Diagramas de Sequência](#32-diagramas-de-sequência)
+  - [Diagramas de Atividades](#33-diagramas-de-atividades)
+
+---
+
 ## 1. Introdução
 
 ### 1.4. Descrição Geral do Software
