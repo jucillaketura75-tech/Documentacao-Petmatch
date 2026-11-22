@@ -5,7 +5,18 @@
 </div>
 
 <br>
+<div align="center">
 
+  <h3> PetMatch — Sistema de Adoção de Animais</h3>
+
+  <p>
+    Documentação informal de requisitos e diagramas UML
+  </p>
+
+  <img src="https://img.shields.io/badge/Projeto-Acadêmico-2563EB?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Concluído-2E8B57?style=flat-square">
+
+</div>
 
 # PetMatch – Sistema de Adoção e Gerenciamento de Animais
 
@@ -263,4 +274,16 @@ O diagrama de atividades apresenta o fluxo de funcionamento do sistema PetMatch,
 - Jucilla Kétura
 - Paolla Gabriele
 
+<hr>
 
+<div align="center">
+
+  <h3> PetMatch</h3>
+
+  <p><em>Conectando pets a novos lares.</em></p>
+
+  <p>
+    <sub>Projeto acadêmico | Documentação de Software</sub>
+  </p>
+
+</div>
