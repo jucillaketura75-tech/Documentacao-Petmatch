@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="assets/banner-petmatch.png"
+       alt="PetMatch - Conectando pets a novos lares"
+       width="100%">
+</div>
+
+<br>
+
+
 # PetMatch – Sistema de Adoção e Gerenciamento de Animais
 
 ## 1. Introdução
