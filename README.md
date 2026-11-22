@@ -210,7 +210,7 @@ Os diagramas de sequência representam as interações entre os atores e os comp
 **Figura 10 – Conclusão da adoção e consulta do histórico.**
 
 <details>
-  <summary><strong> Visuazalizar Diagrama</strong></summary>
+  <summary><strong> Visualizar Diagrama</strong></summary>
 
   <br>
 
